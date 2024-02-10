@@ -33,3 +33,13 @@
     background-color: blue;
     border: 2px solid black;
 }
+
+.description{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.description p{
+    margin-top: 10px;
+    font-size: 25px;
+}
